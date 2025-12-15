@@ -19,4 +19,4 @@ spec:
         image: nginx:1.14.2
         ports:
         - containerPort: 80
-
+## Adding file to kubnertes deployment file to be added into the main purpose to can the what to be 
